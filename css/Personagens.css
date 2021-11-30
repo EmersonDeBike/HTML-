@@ -1,0 +1,64 @@
+.nav-link {
+    color: white;
+background-color: goldenrod;
+}
+body {
+    background-image: url("https://m.media-amazon.com/images/M/MV5BMDJjZWNhZDEtYjMyYy00NzFiLWIxNWYtMzc4YjI3NzRlYjA0XkEyXkFqcGdeQXVyMTAwOTAxNjI0._V1_.jpg");
+    background-attachment:fixed ;
+}
+div {
+    background-color: rgb(29, 28, 28);
+    margin: 100px;
+}
+h1 {
+    color: white;
+    text-align: center;
+}
+p {
+    color: white;
+}
+h2 {
+    color: white;
+    margin-left: 50px;
+
+}
+.container {
+    display: flex;
+}
+.zz {
+    border-style: solid;
+    border-color: goldenrod;
+    border-width: medium;
+}
+.Dante {
+    border-style: solid;
+    border-color: goldenrod;
+    border-width: medium;
+}
+h3 {
+    color: white;
+    margin-left: 50px;
+}
+.Balu {
+    border-style: solid;
+    border-color: goldenrod;
+    border-width: medium; 
+}
+h4 {
+    color: white;
+    margin-left: 50px; 
+}
+h5 {
+    color: white;
+    margin-left: 50px; 
+}
+.Carina {
+    border-style: solid;
+    border-color: goldenrod;
+    border-width: medium;
+}
+.Rubens {
+    border-style: solid;
+    border-color: goldenrod;
+    border-width: medium;  
+}

@@ -1,0 +1,79 @@
+h1 {
+    color: goldenrod;
+}
+body {
+    background-image: url("https://m.media-amazon.com/images/M/MV5BMDJjZWNhZDEtYjMyYy00NzFiLWIxNWYtMzc4YjI3NzRlYjA0XkEyXkFqcGdeQXVyMTAwOTAxNjI0._V1_.jpg");
+}
+#carouselExampleSlidesOnly {
+    border-style: solid;
+    border-color: goldenrod;
+    border-width: medium;
+}
+.nav-link {
+    color: white;
+background-color: goldenrod;
+
+}
+.conteiner {
+background-color: rgb(29, 28, 28);
+color: white;
+font-size: large;
+background-image: url("http://ordem.jamboeditora.com.br/wp-content/uploads/2021/11/outro-lado-coluna.jpg");
+background-repeat: no-repeat;
+background-position: right top;
+background-size: 650px;
+}
+h2 {
+    width: 700px;
+    font-family: 'Shippori Antique B1', sans-serif;
+}
+p {
+    font-family: 'arial';
+    padding: 5px;
+    text-indent: 20px;
+}
+.img {
+    text-align: right top;
+  }
+  .trama {
+   background-color: rgb(29, 28, 28); 
+ 
+  }
+
+  #paragrafo {
+    text-align: center;
+    color: white;
+  }
+  h3 {
+    font-weight: bold;
+    font-family: 'Shippori Antique B1', sans-serif;
+    text-align: center;
+    color: white;
+  }
+  section {
+    text-align: center; 
+    
+  }
+  .Kian {
+    border-style: solid;
+    border-color: goldenrod;
+    border-width: medium;
+  }
+  #kian {
+      color: white;
+      text-align: center; 
+      font-size: small;
+  }
+  #pp {
+    font-size: large; 
+    padding: 5px;
+    text-align: justify;
+  }
+.rituais {
+  text-align: center;
+}
+.eu {
+  color: white;
+  background-color: rgb(29, 28, 28);
+}
+
